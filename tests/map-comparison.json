@@ -1,0 +1,27 @@
+[
+  {
+    "backup": "GeoScope-backup-prepublicacao-20261027-162718",
+    "changed": [
+      "dist/index.html",
+      "dist/js/compare.js",
+      "dist/js/countries.js",
+      "dist/js/layers.js",
+      "dist/js/utils.js",
+      "dist/style.css",
+      "index.html",
+      "js/compare.js",
+      "js/countries.js",
+      "js/layers.js",
+      "js/utils.js",
+      "style.css",
+      "tests/utils.test.mjs"
+    ]
+  },
+  {
+    "backup": "GeoScope-backup-mapa-20261027-163820",
+    "changed": [
+      "dist/style.css",
+      "style.css"
+    ]
+  }
+]

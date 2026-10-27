@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "resource": "oil",
+      "coverage": "2024 · 173/177 COM DADOS",
+      "panel": "RECURSO SELECIONADO\n\nPetróleo\n\nProdução de petróleo bruto e condensado\n\n13.266,82\n2024 · mil barris/dia · EIA · International Energy Statistics ↗\nPode incluir estimativas da EIA\nDefinição e limites",
+      "paths": 177,
+      "selected": "USA",
+      "title": "PETRÓLEO / PRODUÇÃO"
+    },
+    {
+      "resource": "gas",
+      "coverage": "2024 · 172/177 COM DADOS",
+      "panel": "RECURSO SELECIONADO\n\nGás natural\n\nProdução de gás natural seco\n\n642,04\n2024 · bilhões de m³/ano · EIA · International Energy Statistics ↗\nPode incluir estimativas da EIA\nDefinição e limites",
+      "paths": 177,
+      "selected": "RUS",
+      "title": "GÁS NATURAL / PRODUÇÃO"
+    },
+    {
+      "resource": "lithium",
+      "coverage": "2024 · 9/177 COM DADOS",
+      "panel": "RECURSO SELECIONADO\n\nLítio\n\nProdução mineira de lítio\n\n48.900\n2024 · t de Li/ano · USGS · MCS 2026 ↗\nValor publicado pela fonte\n\nValor reportado (nota da fonte).\n\nDefinição e limites",
+      "paths": 177,
+      "selected": "CHL",
+      "title": "LÍTIO / PRODUÇÃO"
+    },
+    {
+      "resource": "uranium",
+      "coverage": "2024 · 12/177 COM DADOS",
+      "panel": "RECURSO SELECIONADO\n\nUrânio\n\nProdução mineira de urânio\n\n23.270\n2024 · t de U/ano · © World Nuclear Association ↗\nValor publicado pela fonte\nDefinição e limites",
+      "paths": 177,
+      "selected": "KAZ",
+      "title": "URÂNIO / PRODUÇÃO"
+    },
+    {
+      "resource": "rare-earths",
+      "coverage": "2024 · 16/177 COM DADOS",
+      "panel": "RECURSO SELECIONADO\n\nTerras raras\n\nProdução mineira de terras raras\n\n270.000\n2024 · t de REO/ano · USGS · MCS 2026 ↗\nEstimativa da fonte\n\nEstimativa USGS indicada no cabeçalho da tabela.\n\nDefinição e limites",
+      "paths": 177,
+      "selected": "CHN",
+      "title": "TERRAS RARAS / PRODUÇÃO"
+    }
+  ],
+  "economy": [
+    {
+      "paths": 177,
+      "selected": "CAN",
+      "title": "MAPA POLÍTICO"
+    },
+    {
+      "paths": 177,
+      "selected": "CAN",
+      "title": "POPULAÇÃO"
+    },
+    {
+      "paths": 177,
+      "selected": "CAN",
+      "title": "PIB NOMINAL"
+    },
+    {
+      "paths": 177,
+      "selected": "CAN",
+      "title": "PIB PER CAPITA"
+    }
+  ],
+  "mobile": {
+    "paths": 177,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  "normalConsole": [],
+  "checks": {
+    "confidentialLithiumUSA": true,
+    "publishedZeroRareEarthsCanada": true,
+    "zoomPreserved": true,
+    "comparisonSwapAndClear": true,
+    "addToComparison": true,
+    "directMapSelectionBrazil": true,
+    "optionalResources404": {
+      "paths": 177,
+      "searchEnabled": true,
+      "resourceDisabled": true
+    },
+    "gasLegendMinimum": "0,00199"
+  }
+}

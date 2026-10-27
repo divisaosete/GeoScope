@@ -1,0 +1,61 @@
+[
+  {
+    "scenario": "import",
+    "disabled": true,
+    "paths": 0,
+    "status": "Não foi possível iniciar o GeoScope. Falha ao carregar js/app.js ou um de seus imports (utils.js, map.js, layers.js, countries.js, compare.js). Verifique respostas HTTP, tipo MIME JavaScript e o console. Failed to fetch dynamically imported module: http://127.0.0.1:5501/__fault/import/js/app.js"
+  },
+  {
+    "scenario": "d3",
+    "disabled": true,
+    "paths": 0,
+    "status": "Não foi possível iniciar o GeoScope. Não foi possível carregar /__fault/d3/assets/d3.min.js. Verifique o arquivo, a resposta HTTP e eventuais bloqueios do navegador."
+  },
+  {
+    "scenario": "mime",
+    "disabled": true,
+    "paths": 0,
+    "status": "Não foi possível iniciar o GeoScope. Falha ao carregar js/app.js ou um de seus imports (utils.js, map.js, layers.js, countries.js, compare.js). Verifique respostas HTTP, tipo MIME JavaScript e o console. Failed to fetch dynamically imported module: http://127.0.0.1:5501/__fault/mime/js/app.js"
+  },
+  {
+    "scenario": "json",
+    "disabled": true,
+    "paths": 0,
+    "status": "Não foi possível iniciar o GeoScope. JSON inválido em /__fault/json/data/countries.json. Verifique se o servidor retornou dados, em vez de uma página HTML. Expected property name or '}' in JSON at position 1 (line 1 column 2) Sirva esta pasta por HTTP/HTTPS e verifique os arquivos locais."
+  },
+  {
+    "scenario": "http",
+    "disabled": true,
+    "paths": 0,
+    "status": "Não foi possível iniciar o GeoScope. Falha ao carregar /__fault/http/data/world.geojson (HTTP 404). Sirva esta pasta por HTTP/HTTPS e verifique os arquivos locais."
+  },
+  {
+    "scenario": "timeout",
+    "status": "Não foi possível iniciar o GeoScope. Tempo limite ao carregar /__fault/timeout/data/world.geojson. Verifique o servidor e tente novamente. Sirva esta pasta por HTTP/HTTPS e verifique os arquivos locais."
+  },
+  {
+    "scenario": "subdirectory-ready",
+    "disabled": 0,
+    "nonemptyPaths": 177,
+    "paths": 177,
+    "scripts": [
+      "http://127.0.0.1:5501/labs/geoscope/js/bootstrap.js",
+      "http://127.0.0.1:5501/labs/geoscope/assets/d3.min.js"
+    ],
+    "status": "Brasil selecionado · 177 entidades cartográficas · indicadores de 2023"
+  },
+  {
+    "scenario": "json-recovery",
+    "status": "Brasil selecionado · 177 entidades cartográficas · indicadores de 2023"
+  },
+  {
+    "scenario": "final-source-live-server",
+    "disabled": 0,
+    "paths": 177,
+    "status": "Brasil selecionado · 177 entidades cartográficas · indicadores de 2023"
+  },
+  {
+    "scenario": "zoom-button",
+    "zoom": "1,5×"
+  }
+]

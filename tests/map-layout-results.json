@@ -1,0 +1,94 @@
+{
+  "before": {
+    "paths": 177,
+    "sphere": {
+      "bottom": 819.7067260742188,
+      "height": 318.7215576171875,
+      "left": 277.5799865722656,
+      "right": 932.419952392578,
+      "top": 500.9851684570313,
+      "width": 654.8399658203125,
+      "x": 277.5799865722656,
+      "y": 500.9851684570313
+    },
+    "status": "Brasil selecionado · 177 entidades cartográficas · indicadores de 2023",
+    "svg": {
+      "bottom": 1036.390625,
+      "height": 755.5,
+      "left": 263.9375,
+      "right": 946.0625,
+      "top": 280.890625,
+      "width": 682.125,
+      "x": 263.9375,
+      "y": 280.890625
+    },
+    "viewport": {
+      "height": 500,
+      "width": 1280
+    }
+  },
+  "after": {
+    "controls": {
+      "bottom": 477.890625,
+      "height": 142,
+      "left": 884.0625,
+      "right": 928.0625,
+      "top": 335.890625,
+      "width": 44,
+      "x": 884.0625,
+      "y": 335.890625
+    },
+    "paths": 177,
+    "sphere": {
+      "bottom": 481.7278442382813,
+      "height": 140.17440795898438,
+      "left": 461,
+      "right": 749,
+      "top": 341.5534362792969,
+      "width": 288,
+      "x": 461,
+      "y": 341.5534362792969
+    },
+    "status": "Brasil selecionado · 177 entidades cartográficas · indicadores de 2023",
+    "svg": {
+      "bottom": 500.890625,
+      "height": 180,
+      "left": 263.9375,
+      "right": 946.0625,
+      "top": 320.890625,
+      "width": 682.125,
+      "x": 263.9375,
+      "y": 320.890625
+    },
+    "viewport": {
+      "height": 500,
+      "width": 1280
+    }
+  },
+  "distribution": {
+    "paths": 177,
+    "portal": "https://divisaosete.com/",
+    "resourcesDisabled": true,
+    "viewport": {
+      "height": 720,
+      "width": 1280
+    },
+    "world": {
+      "bottom": 642.5650634765625,
+      "height": 280.3488464355469,
+      "left": 317,
+      "right": 893,
+      "top": 362.2162170410156,
+      "width": 576,
+      "x": 317,
+      "y": 362.2162170410156
+    }
+  },
+  "zoom": "1,5×",
+  "mobile": {
+    "width": 390,
+    "documentWidth": 375,
+    "mapHeight": 339,
+    "paths": 177
+  }
+}

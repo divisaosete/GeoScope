@@ -1,0 +1,22 @@
+{
+  "index.html": "66dc4933b28ceb315cfc6ab7c56ad3bfda9f60ac9898dd8f3be41d3a27347fb5",
+  "RESOURCE_SOURCES.md": "ff1cf58d1097cfda3450f4358654c49c80f7fc515f62b5ab430ec0d57ed6ae58",
+  "SOURCES.md": "7001ae5566ce65f63ad687fd9f0ad4b82ce41641320091186b0ae6ae01e45702",
+  "style.css": "153f438dc587ae7ea989d2966347a5d9b627d87c324308f65137227f62276ac5",
+  "assets/d3-LICENSE.txt": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+  "assets/d3.min.js": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539",
+  "data/acquisition.json": "7412233230628ba0a4fb24302d26fc42471e6a15f82bcf5f1cf882762a7970cc",
+  "data/countries.json": "92c54667e2ad6044769ac805fa9f64a20d67704bee80fe95e38aba0485595fcf",
+  "data/resources-acquisition.json": "c9dca3c21ed441cdda250f5c48b7fc3f60409e061259e7ae4480bc397d3d2807",
+  "data/resources.json": "8b7474cfa1357adf72778121cd639edde56168d9d20374ef4dbd2fd0a39aeeaf",
+  "data/sources.json": "be1fe98c881a651dd699fcc2b6f6cc4ae0bff041923766e7a5b0a3a6c9fd315a",
+  "data/world.geojson": "2596f9e84781d2c988807831c0e43602f3a56fb2025bade27e7321c6932cb4bd",
+  "js/app.js": "58eb3e76aab7bb14102ef54b54b25271c16d1a1e1a751dde11d600c308fc590d",
+  "js/bootstrap.js": "d9f8056ca092732cd5cc10383b156e7960734170aa0718a6066c9749da4308e4",
+  "js/compare.js": "1b3d707355e4e576866f8414e0a8af77ba9d78efb142d6cd1b69202223169f9c",
+  "js/countries.js": "01ee0b1f2593c62563f5bf072abd2e11eee7d23dbd1a95bffc92ad989adeabb0",
+  "js/layers.js": "84842c64f10203459237b9fbd98407db961d1ed9c1c5bde59b52698e1d5a5f38",
+  "js/map.js": "59f39d374d4860b51704a9efacffd427075d983be7e96462a750423da9da8bdc",
+  "js/resources.js": "bc5b99954faee81299b865dfc2218ee30c09fc0e66c53b83f09b27511fa96d0d",
+  "js/utils.js": "1835448ef35c27eae59c890b742c47df5db46f4117bd673f9a2e537f4e71a156"
+}

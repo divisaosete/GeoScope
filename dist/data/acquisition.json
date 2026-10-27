@@ -1,0 +1,58 @@
+[
+  {
+    "file": "data\\raw\\world.geojson",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+    "bytes": 838726,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data\\raw\\countries.json",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+    "sha256": "c9acf3932785191a649cbc04c3056af4cf64a236e5c3b49d49be25ddb0440bce",
+    "bytes": 113954,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data\\raw\\population.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?date=2023&format=json&per_page=400",
+    "sha256": "27398dc2f2947c58ab01bcc7e81941911d14b4b104da2c233b8d46b3e4a4f74e",
+    "bytes": 53609,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data\\raw\\gdp.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?date=2023&format=json&per_page=400",
+    "sha256": "19948d50644568961b13ed1e9a1f856e12613796ecad14cb6629534c37cbcbbf",
+    "bytes": 56362,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data\\raw\\gdppc.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.PCAP.CD?date=2023&format=json&per_page=400",
+    "sha256": "97bb3fed315ff8fa4b4390ff9d0e32262cba8d4b9bafb7d203183c12f519944d",
+    "bytes": 59376,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data\\raw\\area.json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/AG.SRF.TOTL.K2?date=2023&format=json&per_page=400",
+    "sha256": "76d038ad9f531b732ea470d5daae31b7e49491b2c963d0faffb328c64902cf51",
+    "bytes": 55139,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "assets\\d3.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js",
+    "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539",
+    "bytes": 279706,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "assets\\d3-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/d3/d3/v7.9.0/LICENSE",
+    "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+    "bytes": 731,
+    "retrieved": "2026-10-27"
+  }
+]

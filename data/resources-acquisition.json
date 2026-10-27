@@ -1,0 +1,47 @@
+[
+  {
+    "file": "ei-2025.xlsx",
+    "url": "https://energyinst.org/__data/assets/excel_doc/0008/1656215/EI-Stats-Review-ALL-data.xlsx",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "data/raw/resources/lithium-2026.pdf",
+    "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf",
+    "sha256": "53f92ea45c367c36f05919151f7784feda5776095afaf3a25aec795a27be106f",
+    "bytes": 138422,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data/raw/resources/rare-earths-2026.pdf",
+    "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf",
+    "sha256": "0116a192336fec41c38d8e11dad553bb7703308c1fbd1f97dc14b75c7e7d9900",
+    "bytes": 639984,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data/raw/resources/uranium.html",
+    "url": "https://world-nuclear.org/information-library/Nuclear-Fuel-Cycle/Mining-of-Uranium/World-Uranium-Mining-Production",
+    "sha256": "d89057d16ea551184a12931c4b9c785dab6cb14d6520ddc89ab887c77af52e2f",
+    "bytes": 68518,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "ei-terms.html",
+    "url": "https://energyinst.org/terms",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "data/raw/resources/wna-reuse.html",
+    "url": "https://world-nuclear.org/general/permission-for-use-of-content",
+    "sha256": "54ee195844a03a45dd61e87594c0cb7fc3889581d46f5da46d828bc4031e0031",
+    "bytes": 46153,
+    "retrieved": "2026-10-27"
+  },
+  {
+    "file": "data/raw/resources/eia-INTL.zip",
+    "url": "https://api.eia.gov/bulk/INTL.zip",
+    "sha256": "367a8d8f93bc3c54f96c755e67ce68783ae92580a5751faa545a265376483216",
+    "bytes": 24264743,
+    "retrieved": "2026-10-27"
+  }
+]
